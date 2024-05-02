@@ -11,6 +11,8 @@ Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart so
 - 📝 The summary and transcript are generated from your recording.
 - 💬 Generateive AI Chatbot is ready to answer your question about the conversation.
 - 🙍‍♀️ Share the conversation summary, transcript, and chatbot to your colleagues and friends.
+
+***NOTE: *** There can be several services that record and summarize online meetings. However, we want to focus on offline conversations. Amidst the surge in virtual meetings, we've overlooked the magic of face-to-face conversations. Our desire to connect in person remains strong. That's why we're developing an effortless AI service to capture and preserve those memorable offline chats.
   
 ## How we built it
 We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. The backend and frontend were developed based on Python and JavaScript languages, respectively. It is noteworthy that the core process was implemented using various APIs provided by Google.
