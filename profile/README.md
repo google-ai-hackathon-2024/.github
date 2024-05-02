@@ -7,11 +7,11 @@ Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart so
 🎙️*MinuteTaker AI*🚀 is a combination of Recording and Generative AI technology. Going beyond the Recording function, which was simply recording voices, MinuteTakser AI converts Speech into Text and extracts and summarizes the key parts. Furthermore, the user will get a chatbot tailored to this given conversation. By chatting interactively, the user can get not only information about the conversation but also surrounding knowledge to help them understand easily and much better.
 
 ## How we built it
-We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. The backend and frontend were developed based on Python and JavaScript languages, respectively. It is noteworthy that the core process were implemented using various APIs provided by Google.
+We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. The backend and frontend were developed based on Python and JavaScript languages, respectively. It is noteworthy that the core process was implemented using various APIs provided by Google.
 
-- [**Google Cloud Speech**](): This service utilizes the speech-to-text API to generate a conversation transcript and clusters the words spoken by each speaker.
-- [**Google Vertex AI**](): It summarizes the conversation transcript and generates answers for user questions related to the conversation.
-- [**Google Cloud Storage**](): This component saves the processed results of each conversation into a Google bucket, which can then be used for the result-sharing function.
+- [**Google Cloud Speech**](https://cloud.google.com/python/docs/reference/speech/latest): This service utilizes the speech-to-text API to generate a conversation transcript and clusters the words spoken by each speaker.
+- [**Google Vertex AI**](https://cloud.google.com/vertex-ai/docs/python-sdk/use-vertex-ai-python-sdk): It summarizes the conversation transcript and generates answers for user questions related to the conversation.
+- [**Google Cloud Storage**](https://cloud.google.com/python/docs/reference/storage/latest): This component saves the processed results of each conversation into a Google bucket, which can then be used for the result-sharing function.
 
 
 
@@ -19,7 +19,7 @@ We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. 
 
 - [**LangChain**](https://python.langchain.com/docs/get_started/introduction): It is an open-source LLM orchestration framework to build Retrieval Augmented Generation(RAG) environment.
 - [**chromadb**](https://www.trychroma.com/): It is a AI-native open-source vector database embedding documents and quries.
-- [**librosa**](https://librosa.org/doc/main/index.html) and [**ffmpeg**](): These libraries are used to verify audio files into the same form and create audio samples by trimming.
+- [**librosa**](https://librosa.org/doc/main/index.html) and [**ffmpeg**](https://pypi.org/project/ffmpeg-python/): These libraries are used to verify audio files into the same form and create audio samples by trimming.
 
 
 ### Front-end
