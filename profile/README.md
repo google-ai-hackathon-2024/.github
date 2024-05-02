@@ -6,6 +6,12 @@ Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart so
 ## What it does
 🎙️*MinuteTaker AI*🚀 is a combination of Recording and Generative AI technology. Going beyond the Recording function, which was simply recording voices, MinuteTakser AI converts Speech into Text and extracts and summarizes the key parts. Furthermore, the user will get a chatbot tailored to this given conversation. By chatting interactively, the user can get not only information about the conversation but also surrounding knowledge to help them understand easily and much better.
 
+### Key Features
+- 🎙️ Record your conversation or upload the audio file through our web application.
+- 📝 The summary and transcript are generated from your recording.
+- 💬 Generateive AI Chatbot is ready to answer your question about the conversation.
+- 🙍‍♀️ Share the conversation summary, transcript, and chatbot to your colleagues and friends.
+  
 ## How we built it
 We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. The backend and frontend were developed based on Python and JavaScript languages, respectively. It is noteworthy that the core process was implemented using various APIs provided by Google.
 
