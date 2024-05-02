@@ -1,10 +1,10 @@
 ## Inspiration
-We get and share a lot of information through conversations in our daily lives. Not only that, but conversations are also the most effective way to understand yourself and the other person. But conversations are more easily forgotten in our minds than we think. Sometimes they are interpreted or distorted in their own way. Recording is the most basic way to record a conversation, but how much time do we have to spend listening to Recording again.
+We get and share a lot of information through conversations in our daily lives. Not only that, but conversations are also the most effective way to understand yourself and the other person. But conversations are more easily forgotten in our minds than we think. Sometimes they are interpreted or distorted in their own way. Recording is the most basic way to record a conversation, but how much time do we have to spend listening to Recording again?
 
 Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart solution that can record and understand all kinds of conversations.
 
 ## What it does
-🎙️*MinuteTaker AI*🚀 is a combination of Recording and Generative AI technology. Going beyond the Recording function, which was simply recording voices, MinuteTakser AI converts Speech into Text and extracts and summarizes the key parts. Furthermore, the user will get a chatbot tailored to this given conversation. By chatting interactively, the user can get not only information of the conversation but also surrounding knowledge to help them understanding easily and much better.
+🎙️*MinuteTaker AI*🚀 is a combination of Recording and Generative AI technology. Going beyond the Recording function, which was simply recording voices, MinuteTakser AI converts Speech into Text and extracts and summarizes the key parts. Furthermore, the user will get a chatbot tailored to this given conversation. By chatting interactively, the user can get not only information about the conversation but also surrounding knowledge to help them understand easily and much better.
 
 ## How we built it
 We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. The backend and frontend were developed based on Python and JavaScript languages, respectively. It is noteworthy that the core process were implemented using various APIs provided by Google.
@@ -19,7 +19,7 @@ We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. 
 
 - [**LangChain**](https://python.langchain.com/docs/get_started/introduction): It is an open-source LLM orchestration framework to build Retrieval Augmented Generation(RAG) environment.
 - [**chromadb**](https://www.trychroma.com/): It is a AI-native open-source vector database embedding documents and quries.
-- [**librosa**](https://librosa.org/doc/main/index.html) and [**ffmpeg**](): These libraries are used to varify audio files into the same form and create audio samples by trimming.
+- [**librosa**](https://librosa.org/doc/main/index.html) and [**ffmpeg**](): These libraries are used to verify audio files into the same form and create audio samples by trimming.
 
 
 ### Front-end
@@ -36,7 +36,7 @@ We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. 
 
 3. ***Enhancing Understanding***: The LLM model-based chatbot not only provides answers about the conversation but also serves as an educational resource. By offering relevant information and context, it helps users deepen their understanding of the conversation and related topics. Users can expand their knowledge through interactions with the chatbot.
 
-4. ***Distortion and Interpretation***: Conversations can be misinterpreted or distorted over time. By providing accurate transcriptions and consistent summaries, 🎙️*MinuteTaker AI*🚀 helps prevent this distortion and ensures that the original intent is preserved. With the public link at the end of the process, your conversation can be shared to your friend or colleagues without any interference.
+4. ***Distortion and Interpretation***: Conversations can be misinterpreted or distorted over time. By providing accurate transcriptions and consistent summaries, 🎙️*MinuteTaker AI*🚀 helps prevent this distortion and ensures that the original intent is preserved. With the public link at the end of the process, your conversation can be shared with your friends or colleagues without any interference.
 
 ## Accomplishments that we're proud of
 
@@ -50,7 +50,7 @@ We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. 
 
 3. ***Business Value***
 
-    Our app has significant potential for businesses. By streamlining conversations and preventing information loss, it can enhance productivity and decision-making.
+    Our app has significant potential for businesses. By streamlining conversations and preventing information loss, can enhance productivity and decision-making.
 
 4. ***Community Impact***
 
@@ -81,7 +81,7 @@ We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. 
 
 ## What's next for MinuteTakerAI
 
-Our current prototype represents a significant milestone, but there's much more to achieve in order to make a real impact within the community with 🎙️*MinuteTaker AI*🚀. Let's explore the next steps:
+Our current prototype represents a significant milestone, but there's much more to achieve to make a real impact within the community with 🎙️*MinuteTaker AI*🚀. Let's explore the next steps:
 
 1. **Expanding UI Accessibility to Mobile Platforms:**
    - While our current version is web-based, we recognize its limitations in terms of portability. Conversations can occur anytime and anywhere, so we aim to create a mobile-friendly UI. This will allow users to effortlessly record and summarize conversations on their mobile devices.
