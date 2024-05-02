@@ -30,13 +30,13 @@ We have developed the web version of 🎙️*MinuteTaker AI*🚀 for this time. 
 
 ## Challenges we ran into
 
-1. ***Conversation Retention***: Conversations are valuable sources of information, but they often fade easily from our memory. 🎙️*MinuteTaker AI*🚀 aims to retain and preserve these conversations by recording, converting speech into text, and summarizing key points.
+1. ***Conversation Retention***: Conversations are valuable sources of information, but they often fade easily from our memory. We aim to retain and preserve these conversations by recording, converting speech into text, and summarizing key points.
 
-2. ***Time Efficiency***: Listening to entire recordings can be time-consuming. 🎙️*MinuteTaker AI*🚀 streamlines this process by extracting essential information, allowing users to quickly review relevant content without sifting through lengthy recordings.
+2. ***Time Efficiency***: Traditional methods of taking meeting notes are time-consuming and error-prone, which can hinder productivity and delay decision-making. Even though people can use the recording, we should sift through lengthy recordings. Our streamlined recording process extracts essential information, enabling users to quickly review relevant content without listening to lengthy recordings.
 
-3. ***Enhancing Understanding***: The LLM model-based chatbot not only provides answers about the conversation but also serves as an educational resource. By offering relevant information and context, it helps users deepen their understanding of the conversation and related topics. Users can expand their knowledge through interactions with the chatbot.
+3. ***Enhancing Understanding***: The LLM model-based chatbot not only provides answers about the conversation but also serves as an educational resource. By offering relevant information and context, helps users deepen their understanding of the conversation and related topics. Users can expand their knowledge through interactions with the chatbot.
 
-4. ***Distortion and Interpretation***: Conversations can be misinterpreted or distorted over time. By providing accurate transcriptions and consistent summaries, 🎙️*MinuteTaker AI*🚀 helps prevent this distortion and ensures that the original intent is preserved. With the public link at the end of the process, your conversation can be shared with your friends or colleagues without any interference.
+4. ***Distortion and Interpretation***: Conversations can be misinterpreted or distorted over time. By providing accurate transcriptions and consistent summaries, we help prevent this distortion and ensure that the original intent is preserved. With the public link at the end of the process, your conversation can be shared with your friends or colleagues without any interference.
 
 ## Accomplishments that we're proud of
 
